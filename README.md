@@ -60,4 +60,11 @@ func main() {
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tmgnw&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+### Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge)](https://www.buymeacoffee.com/tmgnw)
+[![Saweria](https://img.shields.io/badge/Saweria-orange?style=for-the-badge)](https://saweria.co/tmgnw)
+[![Bagi-bagi](https://img.shields.io/badge/Bagi--bagi-%23f4a300?style=for-the-badge)](https://bagibagi.co/tmgnw)
+[![Trakteer](https://img.shields.io/badge/Trakteer-%23c91f1f?style=for-the-badge)](https://trakteer.id/tmgnw)
+
+
 
