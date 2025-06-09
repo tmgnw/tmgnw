@@ -47,14 +47,6 @@ func main() {
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### My Contributions 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tmgnw/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 ### Stats:
 ![GitHub Stats Thomas](https://github-readme-stats.vercel.app/api?username=tmgnw&show_icons=true&theme=react)
 ![GitHub Most Language Thomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&show_icons=true&theme=react)
