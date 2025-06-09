@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tmgnw/tmgnw"/>
 
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thomas+Gunawan+Sardjono!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thomas+Gunawan+Sardjono!;&color=9745f5" />
 </h1>
 
 ```go
@@ -50,11 +52,11 @@ func main() {
 ### Stats:
 <p align='center'>
     <a href="https://github.com/tmgnw/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&layout=compact&theme=react&langs_count=8&border_radius=10&alt=readme_stats" height=140 /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&layout=compact&theme=midnight-purple&langs_count=8&border_radius=10&alt=readme_stats" height=140 /></a>
     <a href="https://github.com/tmgnw/">
-        <img src="https://github-readme-stats.vercel.app/api?username=tmgnw&hide=contribs,prs&show_icons=true&theme=react&langs_count=8&border_radius=10&alt=top_langs" height='140' /></a><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tmgnw&hide=contribs,prs&show_icons=true&theme=midnight-purple&langs_count=8&border_radius=10&alt=top_langs" height='140' /></a><br/>
     <a href="https://github.com/tmgnw/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnw&theme=react&langs_count=8&border_radius=10&alt=wakatime_stat" align="center" width="710px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnw&theme=midnight-purple&langs_count=8&border_radius=10&alt=wakatime_stat" align="center" width="710px" />
 </p>
 
 ### GitHub Trophies
@@ -66,5 +68,12 @@ func main() {
 [![Bagi-bagi](https://img.shields.io/badge/Bagi--bagi-%23f4a300?style=for-the-badge)](https://bagibagi.co/tmgnw)
 [![Trakteer](https://img.shields.io/badge/Trakteer-%23c91f1f?style=for-the-badge)](https://trakteer.id/tmgnw)
 
+</br>
+<p align="center">
+   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+</p>
+</br>
 
-
+<p align="center">
+    <img src="https://count.getloli.com/get/@tmgnw-github-readme?theme=rule34" alt="Visitors">
+</p>
