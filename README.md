@@ -48,13 +48,15 @@ func main() {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Stats:
-![GitHub Stats Thomas](https://github-readme-stats.vercel.app/api?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=readme_stats&height=140)
-![GitHub Most Language Thomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=top_langs&height=140)
-
-<div align=center>
 <p align='center'>
-      <img src="https://github-readme-stats.vercel.app/api?username=11neuty&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height=140/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11neuty&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height=140/>
+    <a href="https://github.com/tmgnw/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&layout=compact&theme=react&langs_count=8&border_radius=10&alt=readme_stats" height=140 /></a>
+    <a href="https://github.com/tmgnw/">
+        <img src="https://github-readme-stats.vercel.app/api?username=tmgnw&hide=contribs,prs&show_icons=true&theme=react&langs_count=8&border_radius=10&alt=top_langs" height='140' /></a><br/>
+    <a href="https://github.com/tmgnw/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnw&theme=react&langs_count=8&border_radius=10&alt=wakatime_stat" align="center" width="710px" />
 </p>
-</div>
+
+
+
+
