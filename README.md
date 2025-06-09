@@ -51,4 +51,10 @@ func main() {
 ![GitHub Stats Thomas](https://github-readme-stats.vercel.app/api?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=readme_stats&height=140)
 ![GitHub Most Language Thomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=top_langs&height=140)
 
-
+<div align=center>
+<p align='center'>
+      <img src="https://github-readme-stats.vercel.app/api?username=11neuty&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height=140/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11neuty&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height=140/>
+</p>
+</div>
