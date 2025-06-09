@@ -48,7 +48,7 @@ func main() {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Stats:
-![GitHub Stats Thomas](https://github-readme-stats.vercel.app/api?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=readme stats&height=140)
-![GitHub Most Language Thomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=readme stats&height=140)
+![GitHub Stats Thomas](https://github-readme-stats.vercel.app/api?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=readme_stats&height=140)
+![GitHub Most Language Thomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnw&show_icons=true&theme=react&rank_icon=github&border_radius=10&alt=top_langs&height=140)
 
 
