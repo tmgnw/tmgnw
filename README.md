@@ -57,6 +57,7 @@ func main() {
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnw&theme=react&langs_count=8&border_radius=10&alt=wakatime_stat" align="center" width="710px" />
 </p>
 
-
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tmgnw&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
